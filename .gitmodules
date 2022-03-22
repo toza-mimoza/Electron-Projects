@@ -1,0 +1,3 @@
+[submodule "ShoppingList"]
+	path = ShoppingList
+	url = git@github.com:toza-mimoza/ShoppingList.git
